@@ -1,0 +1,10 @@
+{
+    "Name": "Vminters",
+    "Collection": "LowClass",
+    "attributes": [
+        {
+            "Trait_type": "Tier",
+            "Value": "1"
+        }
+    ]
+}
